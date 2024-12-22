@@ -1,0 +1,244 @@
+Current State: 0, Current Char: #
+Current State: 6, Current Char: i
+Current State: 6, Current Char: n
+Current State: 6, Current Char: c
+Current State: 6, Current Char: l
+Current State: 6, Current Char: u
+Current State: 6, Current Char: d
+Current State: 6, Current Char: e
+Current State: 6, Current Char:  
+Current State: 6, Current Char: <
+Current State: 6, Current Char: i
+Current State: 6, Current Char: o
+Current State: 6, Current Char: s
+Current State: 6, Current Char: t
+Current State: 6, Current Char: r
+Current State: 6, Current Char: e
+Current State: 6, Current Char: a
+Current State: 6, Current Char: m
+Current State: 6, Current Char: >
+Current State: 6, Current Char: 
+
+Current State: 0, Current Char: #
+Current State: 6, Current Char: d
+Current State: 6, Current Char: e
+Current State: 6, Current Char: f
+Current State: 6, Current Char: i
+Current State: 6, Current Char: n
+Current State: 6, Current Char: e
+Current State: 6, Current Char:  
+Current State: 6, Current Char: M
+Current State: 6, Current Char: A
+Current State: 6, Current Char: X
+Current State: 6, Current Char: _
+Current State: 6, Current Char: S
+Current State: 6, Current Char: I
+Current State: 6, Current Char: Z
+Current State: 6, Current Char: E
+Current State: 6, Current Char:  
+Current State: 6, Current Char: 1
+Current State: 6, Current Char: 0
+Current State: 6, Current Char: 0
+Current State: 6, Current Char: 
+
+Current State: 0, Current Char: 
+
+Current State: 0, Current Char: i
+Current State: 1, Current Char: n
+Current State: 1, Current Char: t
+Current State: 1, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char: m
+Current State: 1, Current Char: a
+Current State: 1, Current Char: i
+Current State: 1, Current Char: n
+Current State: 1, Current Char: (
+Current State: 0, Current Char: (
+Current State: 5, Current Char: )
+Current State: 0, Current Char:  
+Current State: 0, Current Char: {
+Current State: 5, Current Char: 
+
+Current State: 0, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char: i
+Current State: 1, Current Char: n
+Current State: 1, Current Char: t
+Current State: 1, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char: x
+Current State: 1, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char: =
+Current State: 4, Current Char:  
+Current State: 0, Current Char: 1
+Current State: 2, Current Char: 0
+Current State: 2, Current Char: ;
+Current State: 0, Current Char: ;
+Current State: 5, Current Char: 
+
+Current State: 0, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char: i
+Current State: 1, Current Char: n
+Current State: 1, Current Char: t
+Current State: 1, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char: y
+Current State: 1, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char: =
+Current State: 4, Current Char:  
+Current State: 0, Current Char: 2
+Current State: 2, Current Char: 0
+Current State: 2, Current Char: ;
+Current State: 0, Current Char: ;
+Current State: 5, Current Char: 
+
+Current State: 0, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char: 
+
+Current State: 0, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char: x
+Current State: 1, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char: =
+Current State: 4, Current Char:  
+Current State: 0, Current Char: y
+Current State: 1, Current Char: ;
+Current State: 0, Current Char: ;
+Current State: 5, Current Char: 
+
+Current State: 0, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char: 
+
+Current State: 0, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char: @
+Current State: 0, Current Char: i
+Current State: 1, Current Char: n
+Current State: 1, Current Char: t
+Current State: 1, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char: r
+Current State: 1, Current Char: e
+Current State: 1, Current Char: s
+Current State: 1, Current Char: u
+Current State: 1, Current Char: l
+Current State: 1, Current Char: t
+Current State: 1, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char: =
+Current State: 4, Current Char:  
+Current State: 0, Current Char: x
+Current State: 1, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char: +
+Current State: 4, Current Char:  
+Current State: 0, Current Char: y
+Current State: 1, Current Char: ;
+Current State: 0, Current Char: ;
+Current State: 5, Current Char:  
+Current State: 0, Current Char: /
+Current State: 4, Current Char: /
+Current State: 0, Current Char:  
+Current State: 0, Current Char: E
+Current State: 1, Current Char: r
+Current State: 1, Current Char: r
+Current State: 1, Current Char: o
+Current State: 1, Current Char: r
+Current State: 1, Current Char: 
+
+Current State: 0, Current Char: 
+
+Current State: 0, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char: 
+
+Current State: 0, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char: s
+Current State: 1, Current Char: t
+Current State: 1, Current Char: d
+Current State: 1, Current Char: :
+Current State: 0, Current Char: :
+Current State: 10, Current Char: :
+Current State: 0, Current Char: c
+Current State: 1, Current Char: o
+Current State: 1, Current Char: u
+Current State: 1, Current Char: t
+Current State: 1, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char: <
+Current State: 0, Current Char: <
+Current State: 0, Current Char:  
+Current State: 0, Current Char: r
+Current State: 1, Current Char: e
+Current State: 1, Current Char: s
+Current State: 1, Current Char: u
+Current State: 1, Current Char: l
+Current State: 1, Current Char: t
+Current State: 1, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char: <
+Current State: 0, Current Char: <
+Current State: 0, Current Char:  
+Current State: 0, Current Char: s
+Current State: 1, Current Char: t
+Current State: 1, Current Char: d
+Current State: 1, Current Char: :
+Current State: 0, Current Char: :
+Current State: 10, Current Char: :
+Current State: 0, Current Char: e
+Current State: 1, Current Char: n
+Current State: 1, Current Char: d
+Current State: 1, Current Char: l
+Current State: 1, Current Char: ;
+Current State: 0, Current Char: ;
+Current State: 5, Current Char: 
+
+Current State: 0, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char: 
+
+Current State: 0, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char: r
+Current State: 1, Current Char: e
+Current State: 1, Current Char: t
+Current State: 1, Current Char: u
+Current State: 1, Current Char: r
+Current State: 1, Current Char: n
+Current State: 1, Current Char:  
+Current State: 0, Current Char:  
+Current State: 0, Current Char: 0
+Current State: 2, Current Char: ;
+Current State: 0, Current Char: ;
+Current State: 5, Current Char: 
+
+Current State: 0, Current Char: }
+Current State: 5, Current Char: 
+

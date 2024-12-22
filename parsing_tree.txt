@@ -1,0 +1,154 @@
+Program
+  PROGRAM [WordsKey]
+    example [Id]
+  Descriptions
+    Descr
+      Type
+        INTEGER [WordsKey]
+      Varlist
+        a [Id]
+        , [Symbols_of_Separating]
+      Varlist
+        b [Id]
+        , [Symbols_of_Separating]
+      Varlist
+        c [Id]
+  Descriptions
+    Descr
+      Type
+        INTEGER [WordsKey]
+      Varlist
+        x [Id]
+        , [Symbols_of_Separating]
+      Varlist
+        y [Id]
+        , [Symbols_of_Separating]
+      Varlist
+        z [Id]
+  Descriptions
+    Descr
+      Type
+        INTEGER [WordsKey]
+      Varlist
+        i [Id]
+        , [Symbols_of_Separating]
+      Varlist
+        x [Id]
+  Operators
+    Op
+      t [Id]
+      = [Symbols_of_Operation]
+      Expr
+        ( [Opening_Bracket]
+        SimpleExpr
+          10 [Const]
+        ) [Closing_Bracket]
+  Operators
+    Op
+      b [Id]
+      = [Symbols_of_Operation]
+      Expr
+        SimpleExpr
+          20 [Const]
+  Operators
+    Op
+      c [Id]
+      = [Symbols_of_Operation]
+      Expr
+        SimpleExpr
+          a [Id]
+        + [Symbols_of_Operation]
+        SimpleExpr
+          b [Id]
+        ( [Opening_Bracket]
+        + [Symbols_of_Operation]
+        SimpleExpr
+          5 [Const]
+        ) [Closing_Bracket]
+        - [Symbols_of_Operation]
+        SimpleExpr
+          x [Id]
+  Operators
+    Op
+      FOR [WordsKey]
+      Expr
+        SimpleExpr
+          i [Id]
+        SimpleExpr
+          = [Symbols_of_Operation]
+          1 [Const]
+      TO [WordsKey]
+      Expr
+        SimpleExpr
+          i [Id]
+        SimpleExpr
+          + [Symbols_of_Operation]
+          10 [Const]
+        ( [Opening_Bracket]
+        SimpleExpr
+          + [Symbols_of_Operation]
+          i [Id]
+        ) [Closing_Bracket]
+        SimpleExpr
+          + [Symbols_of_Operation]
+          5 [Const]
+      DO [WordsKey]
+      NestedCycle
+        Operators
+          Operators
+            Op
+              FOR [WordsKey]
+              Expr
+                SimpleExpr
+                  i [Id]
+                SimpleExpr
+                  = [Symbols_of_Operation]
+                  1 [Const]
+              TO [WordsKey]
+              Expr
+                SimpleExpr
+                  i [Id]
+                SimpleExpr
+                  + [Symbols_of_Operation]
+                  10 [Const]
+                SimpleExpr
+                  + [Symbols_of_Operation]
+                  i [Id]
+                SimpleExpr
+                  + [Symbols_of_Operation]
+                  5 [Const]
+              DO [WordsKey]
+              NestedCycle
+                Operators
+                  Op
+                    Expr
+                      SimpleExpr
+                        i [Id]
+                        = [Symbols_of_Operation]
+                      SimpleExpr
+                        i [Id]
+                        - [Symbols_of_Operation]
+                      SimpleExpr
+                        1 [Const]
+                  Op
+                    Expr
+                      SimpleExpr
+                        a [Id]
+                        = [Symbols_of_Operation]
+                      SimpleExpr
+                        5 [Const]
+                  Op
+                    Expr
+                      SimpleExpr
+                        c [Id]
+                        = [Symbols_of_Operation]
+                      SimpleExpr
+                        ( [Id]
+                        52 [Symbols_of_Operation]
+                      SimpleExpr
+                        - [Id]
+                        b [Symbols_of_Operation]
+                      SimpleExpr
+                        ) [Id]
+  END [WordsKey]
+    example [Id]

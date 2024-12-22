@@ -1,0 +1,3 @@
+PROGRAM and END identifiers match: "example".
+The following variables are used but not declared:
+  t

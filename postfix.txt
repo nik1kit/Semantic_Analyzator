@@ -1,0 +1,7 @@
+INTEGER a b c 4 DECL
+INTEGER x y z 4 DECL
+INTEGER i x 3 DECL
+t 10 = 
+b 20 = 
+c a b 5 + + x - = 
+i 1 = m3 DEFL i i 10 i + + 5 + < m4 BF i 1 = m1 DEFL i i 10 + i + 5 + < m2 BF i i 1 + = m1 BRL m2 DEFL i i 1 a - = 5 c = 52 b - =  i i 1 + = m3 BRL m4 DEFL

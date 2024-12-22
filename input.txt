@@ -1,0 +1,12 @@
+PROGRAM example
+    INTEGER  a, b, c
+    INTEGER  x, y, z
+    INTEGER  i, x
+    t = ( 10 )
+    b = 20
+    c = a + ( b + 5 ) - x 
+    FOR i = 1 TO i + ( 10 + i ) + 5 DO FOR i = 1 TO i + 10 + i + 5 DO  i = i - 1 a = 5 c = ( 52 - b )
+END example
+
+
+
